@@ -1,0 +1,5 @@
+chatpdf_venv
+/chatpdf_venv
+.env
+faiss_index
+/faiss_index
